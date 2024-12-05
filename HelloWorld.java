@@ -3,7 +3,7 @@ public class HelloWorld{
         System.out.println("Hello Java World");
         System.out.println("Hellow branch switching");
         System.out.println("Starting the merging process");
+        
         // comment added
         //git testing
-    }
 }
